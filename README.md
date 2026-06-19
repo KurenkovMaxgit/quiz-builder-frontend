@@ -1,4 +1,4 @@
-# Quizly: Quiz Platform Client
+# QuizQuiz Builder Frontend
 
 ## Project Status: MVP
 
